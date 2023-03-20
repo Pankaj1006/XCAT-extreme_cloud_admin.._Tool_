@@ -1,1 +1,1 @@
-# XCAT-extreme_cloud_admin.._Tool_
+# xCAT (Extreme Cloud Administration Toolkit)
